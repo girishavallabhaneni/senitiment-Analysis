@@ -39,6 +39,8 @@ Word cloud of frequent terms in reviews
 
 Frequent-word analysis chart (e.g., "food", "place", "restaurant")
 
+<img width="810" height="865" alt="Screenshot 2026-03-05 115209" src="https://github.com/user-attachments/assets/e85396d0-ee10-4259-875c-537bed5cbc47" />
+
 ## How to Run (Local)
 
 1. Clone the repo
@@ -82,7 +84,4 @@ Results:
 
 The analysis shows a mix of positive and negative feedback, and the insights are supported with visualization for clearing interpretation.
 
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-03-05 115209" src="https://github.com/user-attachments/assets/38398e59-5e78-4c67-959c-a4f77dde729e" />
 
